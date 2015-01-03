@@ -30,8 +30,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6714976" vertical-offset="9375" max-vertical-offset="11016">
-              <caret line="576" column="23" selection-start-line="576" selection-start-column="23" selection-end-line="576" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.8357488" vertical-offset="6230" max-vertical-offset="10897">
+              <caret line="397" column="25" selection-start-line="397" selection-start-column="25" selection-end-line="397" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -280,7 +280,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420298272279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nuclear+biofuel done">
+      <created>1420310828716</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1420310828717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -325,7 +331,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Oil meethod -case study" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oil meethod -case study" />
+    <MESSAGE value="Nuclear+biofuel done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuclear+biofuel done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -334,8 +341,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6714976" vertical-offset="9375" max-vertical-offset="11016">
-          <caret line="576" column="23" selection-start-line="576" selection-start-column="23" selection-end-line="576" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.8357488" vertical-offset="6230" max-vertical-offset="10897">
+          <caret line="397" column="25" selection-start-line="397" selection-start-column="25" selection-end-line="397" selection-end-column="25" />
           <folding />
         </state>
       </provider>
