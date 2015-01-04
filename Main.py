@@ -1,5 +1,6 @@
 __author__ = 'dugging'
 from tkinter import *
+import Extra
 
 
 def coal():
@@ -687,9 +688,18 @@ def thoughts():
     GUIMT.mainloop()
 
 
+def about():
+    GUIA = Tk()
+    GUIA.title('')
+    GUIA.geometry('130x60')
+    Label(GUIA, text='Version: 0.9B').place(x=0, y=0)
+    Label(GUIA, text='Author: Charlie Walpole').place(x=0, y=20)
+    Label(GUIA, text='Time Spent: 12hrs').place(x=0, y=40)
+    GUIA.mainloop()
+
 GUI = Tk()
 GUI.title('Physics Project')
-GUI.geometry('296x150')
+GUI.geometry('296x175')
 Button(GUI, text='Coal Power plants', command=coal, width=20).place(x=0, y=0)
 Button(GUI, text='Solar Power plants', command=solar, width=20).place(x=149, y=0)
 Button(GUI, text='Oil Power plants', command=oil, width=20).place(x=0, y=25)
@@ -702,5 +712,7 @@ Button(GUI, text='Nuclear Power plants', command=nuclear, width=20).place(x=0, y
 Button(GUI, text='Wave Power plants', command=wave, width=20).place(x=149, y=100)
 Button(GUI, text='Wind Power plants', command=wind, width=20).place(x=0, y=125)
 Button(GUI, text='My Solution', command=thoughts, width=20).place(x=149, y=125)
+Button(GUI, text='Extra', command=Extra.Game, width=20).place(x=0, y=150)
+Button(GUI, text='About', command=about, width=20).place(x=149, y=150)
 
 GUI.mainloop()

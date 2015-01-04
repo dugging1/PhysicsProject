@@ -27,11 +27,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17874396" vertical-offset="11194" max-vertical-offset="12087">
-              <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="11619" max-vertical-offset="12291">
+              <caret line="694" column="35" selection-start-line="694" selection-start-column="35" selection-end-line="694" selection-end-column="35" />
+              <folding>
+                <element signature="e#23#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extra.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Extra.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -46,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Extra.py" />
       </list>
     </option>
   </component>
@@ -333,7 +346,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420382680023</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Main Task Done Done">
+      <created>1420388953607</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1420388953607</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +402,8 @@
     <MESSAGE value="Wave+Tidal Done" />
     <MESSAGE value="Geothermal Done" />
     <MESSAGE value="Hydroelectric Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hydroelectric Done" />
+    <MESSAGE value="Main Task Done Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Task Done Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,7 +416,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10897">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#23#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -404,14 +426,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10897">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#23#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17874396" vertical-offset="11194" max-vertical-offset="12087">
-          <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="11619" max-vertical-offset="12291">
+          <caret line="694" column="35" selection-start-line="694" selection-start-column="35" selection-end-line="694" selection-end-column="35" />
+          <folding>
+            <element signature="e#23#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
