@@ -30,8 +30,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23349437" vertical-offset="9562" max-vertical-offset="11832">
-              <caret line="571" column="60" selection-start-line="571" selection-start-column="60" selection-end-line="571" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.17874396" vertical-offset="11194" max-vertical-offset="12087">
+              <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -327,7 +327,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420381013545</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Hydroelectric Done">
+      <created>1420382680023</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1420382680023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,10 +382,13 @@
     <MESSAGE value="Wind+1/3Wave Done" />
     <MESSAGE value="Wave+Tidal Done" />
     <MESSAGE value="Geothermal Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Geothermal Done" />
+    <MESSAGE value="Hydroelectric Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hydroelectric Done" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -401,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23349437" vertical-offset="9562" max-vertical-offset="11832">
-          <caret line="571" column="60" selection-start-line="571" selection-start-column="60" selection-end-line="571" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.17874396" vertical-offset="11194" max-vertical-offset="12087">
+          <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
           <folding />
         </state>
       </provider>
