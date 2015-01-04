@@ -30,8 +30,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.42351046" vertical-offset="8933" max-vertical-offset="11883">
-              <caret line="510" column="61" selection-start-line="510" selection-start-column="61" selection-end-line="510" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.23349437" vertical-offset="9562" max-vertical-offset="11832">
+              <caret line="571" column="60" selection-start-line="571" selection-start-column="60" selection-end-line="571" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -321,7 +321,13 @@
       <option name="project" value="LOCAL" />
       <updated>1420377196231</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Geothermal Done">
+      <created>1420381013545</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1420381013545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -369,7 +375,8 @@
     <MESSAGE value="Nuclear+biofuel done" />
     <MESSAGE value="Wind+1/3Wave Done" />
     <MESSAGE value="Wave+Tidal Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wave+Tidal Done" />
+    <MESSAGE value="Geothermal Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Geothermal Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -394,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.42351046" vertical-offset="8933" max-vertical-offset="11883">
-          <caret line="510" column="61" selection-start-line="510" selection-start-column="61" selection-end-line="510" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.23349437" vertical-offset="9562" max-vertical-offset="11832">
+          <caret line="571" column="60" selection-start-line="571" selection-start-column="60" selection-end-line="571" selection-end-column="60" />
           <folding />
         </state>
       </provider>
